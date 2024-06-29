@@ -1,1 +1,3 @@
-# gsod_temperature_dashboard
+# GSOD Global Temperature Dashboard with Looker Studio and BigQuery
+
+For this project I

@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this project I built a global temperature dashboard based on a public NOAA Google BigQuery Dataset using Google Looker Studio. This project was intended to build and display my ability with datawarehouse and business intelligence tools, not be a comprehensive study on climate change. I queried the database in BigQuery and then saved my work as views and tables which I then built visualizations off of in Looker Studio. The queries are stored in the BigQuery folder in this repository, and the Looker Studio dashboard is in a PDF in this repository.
+In this project I built a global temperature dashboard based on a public NOAA Google BigQuery Dataset using Google Looker Studio. This project was intended to build and display my ability with data warehouse and business intelligence tools, not be a comprehensive study on climate change. I queried the database in BigQuery and then saved my work as views and tables which I then built visualizations off of in Looker Studio. The queries are stored in the BigQuery folder in this repository, and the Looker Studio dashboard is in a PDF in this repository.
 
 ### Directory
 
